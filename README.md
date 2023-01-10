@@ -1,3 +1,3 @@
-# example_repository_LOCAL
+# example_repository_WEB
 
 Some new text. On the web.
